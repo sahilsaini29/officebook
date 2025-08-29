@@ -1,0 +1,32 @@
+PURCHASE ORDER
+
+PO Number: PO-78543
+Date: August 18, 2025
+
+Vendor:
+TechNova Supplies Ltd.
+901 Tech Drive
+Seattle, WA 98101
+
+Ship To:
+Evergreen Biotech
+Warehouse #4
+1420 Research Park Lane
+Palo Alto, CA 94304
+
+Items Ordered:
+1. Laboratory Refrigerator (Model: LAB-5500) – Qty: 2 – $1,750.00 each
+2. Centrifuge Tubes (1000 pack) – Qty: 5 – $120.00 each
+3. Protective Lab Coats (Pack of 10) – Qty: 3 – $95.00 each
+
+Subtotal: $4,810.00  
+Sales Tax (9.0%): $432.90  
+Total Amount: $5,242.90
+
+Delivery Date Requested: September 5, 2025  
+Payment Terms: Net 45
+
+Authorized By:
+Amanda Hill  
+Procurement Manager  
+Evergreen Biotech

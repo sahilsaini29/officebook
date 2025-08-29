@@ -1,0 +1,24 @@
+INVOICE
+
+Invoice #: 4567-A
+Date: August 5, 2025
+
+Client: Blue River Consulting
+444 Park Ave
+New York, NY 10022
+
+Items:
+- HR Policy Review and Audit - $1,250.00
+- Compliance Training Session (2 hours) - $600.00
+
+Subtotal: $1,850.00
+Discount: $150.00
+Total Due: $1,700.00
+
+Terms: Due on receipt
+Payment Method: ACH or Wire Transfer
+
+Bank Info:
+First National Bank
+Account: 6677889900
+Routing: 021000021

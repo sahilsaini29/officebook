@@ -1,0 +1,29 @@
+INVOICE
+
+Invoice Number: INV-2025-1023
+Date: August 20, 2025
+
+Bill To:
+Acme Corporation
+123 Business Park Blvd
+Suite 400
+San Diego, CA 92121
+
+Description of Services:
+- Monthly Cloud Storage (500 GB) - $100.00
+- Data Backup Service - $50.00
+- Technical Support (Premium) - $75.00
+
+Subtotal: $225.00
+Tax (8.25%): $18.56
+Total Amount Due: $243.56
+
+Payment Terms: Net 30
+Due Date: September 19, 2025
+
+Please make payment to:
+Cloudify Tech Services
+Bank Account: 1234567890
+Routing Number: 987654321
+
+Thank you for your business!

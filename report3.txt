@@ -1,0 +1,24 @@
+IT SECURITY INCIDENT REPORT
+
+Report ID: SEC-0925
+Date: August 21, 2025  
+Prepared by: InfoSec Team
+
+Incident Summary:
+On August 19, 2025, a phishing email was reported by multiple users. The message mimicked internal communication and linked to a malicious credential-harvesting site.
+
+Actions Taken:
+- Email quarantined across all accounts.
+- Password resets issued to affected users.
+- Domain added to blocklist.
+
+Impact:
+- 7 user accounts affected
+- No data exfiltration detected
+- Downtime: None
+
+Next Steps:
+- Re-training for staff on phishing detection
+- Enhance MFA enforcement for all critical systems
+
+Report Closed: August 22, 2025

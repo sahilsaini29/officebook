@@ -1,0 +1,26 @@
+Q2 SALES PERFORMANCE REPORT
+
+Prepared by: Revenue Operations  
+Company: BrightView Analytics Inc.  
+Date: July 15, 2025
+
+Executive Summary:
+The second quarter of 2025 showed steady growth in overall sales revenue, with a 12% increase over Q1. Key performance drivers included new client acquisitions and upsells in the enterprise segment.
+
+Key Highlights:
+- Total Revenue: $1.45M
+- New Customers: 28
+- Churn Rate: 3.2%
+- Average Contract Value (ACV): $21,400
+
+Regional Breakdown:
+- North America: $980K
+- Europe: $320K
+- Asia-Pacific: $150K
+
+Recommendations:
+1. Expand outbound sales efforts in Asia-Pacific.
+2. Continue investing in sales enablement tools.
+3. Launch Q3 customer success retention program.
+
+End of Report

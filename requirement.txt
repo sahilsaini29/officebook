@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+pytesseract
+pillow
+pyPDF2
